@@ -9,6 +9,9 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Serve static files from 'public' directory
+app.use(express.static('public'));
+
 // The requested store IDs
 const STORE_IDS = [
     "b8aed0f4-59e0-4387-825d-406800150b71", // Original

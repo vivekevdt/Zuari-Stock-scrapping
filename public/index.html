@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zuari Stock Scraper</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #4F46E5;
+            --primary-hover: #4338CA;
+            --bg-color: #0F172A;
+            --surface-color: #1E293B;
+            --text-main: #F8FAFC;
+            --text-muted: #94A3B8;
+            --success: #10B981;
+            --error: #EF4444;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            background-color: var(--surface-color);
+            padding: 3rem;
+            border-radius: 1rem;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5);
+            width: 100%;
+            max-width: 450px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        h1 {
+            margin-top: 0;
+            font-size: 1.75rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #A78BFA, #4F46E5);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+            line-height: 1.5;
+        }
+
+        button {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            font-size: 1.125rem;
+            font-weight: 600;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            width: 100%;
+            transition: all 0.2s ease-in-out;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.5rem;
+            box-shadow: 0 4px 6px -1px rgba(79, 70, 229, 0.4);
+        }
+
+        button:hover:not(:disabled) {
+            background-color: var(--primary-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(79, 70, 229, 0.5);
+        }
+
+        button:active:not(:disabled) {
+            transform: translateY(0);
+        }
+
+        button:disabled {
+            opacity: 0.7;
+            cursor: not-allowed;
+        }
+
+        .spinner {
+            display: none;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(255,255,255,0.3);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1s ease-in-out infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        #status {
+            margin-top: 1.5rem;
+            font-size: 0.95rem;
+            font-weight: 500;
+            min-height: 24px;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            background: rgba(255, 255, 255, 0.03);
+            display: none;
+        }
+
+        .success { color: var(--success); }
+        .error { color: var(--error); }
+        
+        .stores-pill {
+            display: inline-block;
+            background: rgba(255,255,255,0.05);
+            padding: 0.25rem 0.75rem;
+            border-radius: 1rem;
+            font-size: 0.8rem;
+            margin-bottom: 1.5rem;
+            color: #CBD5E1;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Zuari Stock Scraper</h1>
+        <div class="stores-pill">Processing 2 Stores</div>
+        <p>Click the button below to start fetching Zepto data and send the email report.</p>
+
+        <button id="scrapeBtn" onclick="startScraping()">
+            <span class="spinner" id="spinner"></span>
+            <span id="btnText">Start Scraping</span>
+        </button>
+
+        <div id="status"></div>
+    </div>
+
+    <script>
+        async function startScraping() {
+            const btn = document.getElementById('scrapeBtn');
+            const btnText = document.getElementById('btnText');
+            const spinner = document.getElementById('spinner');
+            const statusDiv = document.getElementById('status');
+
+            // Set loading state
+            btn.disabled = true;
+            spinner.style.display = 'block';
+            btnText.innerText = 'Scraping in progress...';
+            
+            statusDiv.style.display = 'block';
+            statusDiv.className = '';
+            statusDiv.innerHTML = 'Connecting to server and launching browser... <br><small style="color:#94A3B8; margin-top:0.5rem; display:block">This usually takes about 20-30 seconds.</small>';
+
+            try {
+                const response = await fetch('/api/test', {
+                    method: 'GET'
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    statusDiv.innerHTML = `✅ Success! <br><small style="color:#94A3B8; margin-top:0.5rem; display:block">${data.message} (${data.itemsScraped} items)</small>`;
+                    statusDiv.className = 'success';
+                } else {
+                    statusDiv.innerHTML = `⚠️ Error! <br><small style="color:#94A3B8; margin-top:0.5rem; display:block">${data.message || data.error}</small>`;
+                    statusDiv.className = 'error';
+                }
+            } catch (err) {
+                statusDiv.innerHTML = `❌ Connection Failed! <br><small style="color:#94A3B8; margin-top:0.5rem; display:block">${err.message}</small>`;
+                statusDiv.className = 'error';
+            } finally {
+                // Reset button state
+                btn.disabled = false;
+                spinner.style.display = 'none';
+                btnText.innerText = 'Start Scraping';
+            }
+        }
+    </script>
+</body>
+</html>
