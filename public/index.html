@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -93,14 +94,16 @@
             display: none;
             width: 20px;
             height: 20px;
-            border: 3px solid rgba(255,255,255,0.3);
+            border: 3px solid rgba(255, 255, 255, 0.3);
             border-radius: 50%;
             border-top-color: white;
             animation: spin 1s ease-in-out infinite;
         }
 
         @keyframes spin {
-            to { transform: rotate(360deg); }
+            to {
+                transform: rotate(360deg);
+            }
         }
 
         #status {
@@ -114,21 +117,27 @@
             display: none;
         }
 
-        .success { color: var(--success); }
-        .error { color: var(--error); }
-        
+        .success {
+            color: var(--success);
+        }
+
+        .error {
+            color: var(--error);
+        }
+
         .stores-pill {
             display: inline-block;
-            background: rgba(255,255,255,0.05);
+            background: rgba(255, 255, 255, 0.05);
             padding: 0.25rem 0.75rem;
             border-radius: 1rem;
             font-size: 0.8rem;
             margin-bottom: 1.5rem;
             color: #CBD5E1;
-            border: 1px solid rgba(255,255,255,0.1);
+            border: 1px solid rgba(255, 255, 255, 0.1);
         }
     </style>
 </head>
+
 <body>
 
     <div class="container">
@@ -155,7 +164,7 @@
             btn.disabled = true;
             spinner.style.display = 'block';
             btnText.innerText = 'Scraping in progress...';
-            
+
             statusDiv.style.display = 'block';
             statusDiv.className = '';
             statusDiv.innerHTML = 'Connecting to server and launching browser... <br><small style="color:#94A3B8; margin-top:0.5rem; display:block">This usually takes about 20-30 seconds.</small>';
@@ -186,4 +195,5 @@
         }
     </script>
 </body>
+
 </html>

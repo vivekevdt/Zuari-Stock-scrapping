@@ -1,0 +1,3756 @@
+[
+  {
+    "latitude": "28.703749",
+    "longitude": "77.281407",
+    "store_ids": [
+      "b8aed0f4-59e0-4387-825d-406800150b71",
+      "57a0c2ae-1cf1-4c4a-99eb-eb2e19864075"
+    ]
+  },
+  {
+    "latitude": "28.474679",
+    "longitude": "77.104898",
+    "store_ids": [
+      "cb64eb92-03c1-452a-b98d-2582d7818f74",
+      "d890c3ec-bdf4-4253-b3b4-60742f691584"
+    ]
+  },
+  {
+    "latitude": "28.442126",
+    "longitude": "77.065202",
+    "store_ids": [
+      "90f2f25e-b21f-4999-957f-a96a81f01dfb",
+      "1f606e33-cc6a-46ae-95d7-21bb5a401d7a"
+    ]
+  },
+  {
+    "latitude": "28.405117",
+    "longitude": "76.975827",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.436225",
+    "longitude": "77.030539",
+    "store_ids": [
+      "d56e42a4-7150-4aa4-b7fc-84f9caa43963",
+      "1f606e33-cc6a-46ae-95d7-21bb5a401d7a"
+    ]
+  },
+  {
+    "latitude": "28.481371",
+    "longitude": "76.993107",
+    "store_ids": [
+      "005dcc9a-d50c-442f-ae5e-f89f35d1a01a",
+      "e03f540b-f6e2-4749-93fc-5c777cb31628"
+    ]
+  },
+  {
+    "latitude": "28.471851",
+    "longitude": "77.057885",
+    "store_ids": [
+      "105471df-6c84-4bcf-87d7-d9308fd4df4a",
+      "1f606e33-cc6a-46ae-95d7-21bb5a401d7a"
+    ]
+  },
+  {
+    "latitude": "28.492991",
+    "longitude": "77.072414",
+    "store_ids": [
+      "5f095060-a46f-4e99-bc08-1f410caccc72",
+      "d890c3ec-bdf4-4253-b3b4-60742f691584"
+    ]
+  },
+  {
+    "latitude": "28.464164",
+    "longitude": "77.082348",
+    "store_ids": [
+      "2809502a-1c2c-4305-9b1d-f00d75bf65c3",
+      "d890c3ec-bdf4-4253-b3b4-60742f691584"
+    ]
+  },
+  {
+    "latitude": "28.485929",
+    "longitude": "77.10575",
+    "store_ids": [
+      "cb64eb92-03c1-452a-b98d-2582d7818f74",
+      "d890c3ec-bdf4-4253-b3b4-60742f691584"
+    ]
+  },
+  {
+    "latitude": "28.425875",
+    "longitude": "77.097619",
+    "store_ids": [
+      "bcfaff62-217e-4fab-b8cd-a89d81ccfc4a",
+      "f4626c02-1bd4-4396-9a7c-e111d2fc0170"
+    ]
+  },
+  {
+    "latitude": "28.496371",
+    "longitude": "77.059325",
+    "store_ids": [
+      "5f095060-a46f-4e99-bc08-1f410caccc72",
+      "d38c9d04-5703-4156-8431-c27aebbf3dc1"
+    ]
+  },
+  {
+    "latitude": "28.507934",
+    "longitude": "77.075154",
+    "store_ids": [
+      "baa090fc-be13-4b34-87c5-2aea256fd4c4",
+      "d38c9d04-5703-4156-8431-c27aebbf3dc1"
+    ]
+  },
+  {
+    "latitude": "28.507656",
+    "longitude": "77.02766",
+    "store_ids": [
+      "5858e2d0-74e9-4250-bdca-c6949282438b",
+      "d38c9d04-5703-4156-8431-c27aebbf3dc1"
+    ]
+  },
+  {
+    "latitude": "28.418081",
+    "longitude": "77.05069",
+    "store_ids": [
+      "82dffafa-bf7f-4752-a0b2-561dc1349c4a",
+      "1d31c12c-1669-4ed5-bf1e-251da70753b8"
+    ]
+  },
+  {
+    "latitude": "28.348443",
+    "longitude": "76.923973",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.370279",
+    "longitude": "76.912447",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.638684",
+    "longitude": "77.07947",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.699023",
+    "longitude": "77.113998",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.76505",
+    "longitude": "77.090981",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.742976",
+    "longitude": "76.756737",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.615757",
+    "longitude": "76.849033",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.617035",
+    "longitude": "76.975827",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.521732",
+    "longitude": "76.595056",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.555352",
+    "longitude": "76.81443",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.86629",
+    "longitude": "77.07947",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.51071",
+    "longitude": "76.710563",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.885617",
+    "longitude": "77.16002",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.538441",
+    "longitude": "76.987348",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.761551",
+    "longitude": "76.94126",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.897988",
+    "longitude": "76.94126",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.838594",
+    "longitude": "76.802893",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.049537",
+    "longitude": "75.574247",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.140622",
+    "longitude": "75.67899",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.125413",
+    "longitude": "75.748778",
+    "store_ids": [
+      "9cdc6807-1add-4e75-887d-8c8b32b7fc7e"
+    ]
+  },
+  {
+    "latitude": "29.110152",
+    "longitude": "75.818531",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.123542",
+    "longitude": "75.705165",
+    "store_ids": [
+      "9cdc6807-1add-4e75-887d-8c8b32b7fc7e"
+    ]
+  },
+  {
+    "latitude": "29.231644",
+    "longitude": "75.665902",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.064375",
+    "longitude": "75.923098",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.953118",
+    "longitude": "75.841775",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.184922",
+    "longitude": "76.201557",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.311851",
+    "longitude": "76.1088",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.093728",
+    "longitude": "76.201557",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.067084",
+    "longitude": "75.841775",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.357984",
+    "longitude": "75.690624",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.433554",
+    "longitude": "75.55096",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.206011",
+    "longitude": "75.969547",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.483552",
+    "longitude": "75.387852",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.675386",
+    "longitude": "75.481079",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.292102",
+    "longitude": "75.504376",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.362241",
+    "longitude": "75.317895",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.565924",
+    "longitude": "75.2129",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.430551",
+    "longitude": "74.920877",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.565924",
+    "longitude": "75.2129",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.457818",
+    "longitude": "75.259573",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.567971",
+    "longitude": "75.131187",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.559088",
+    "longitude": "74.663464",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.626256",
+    "longitude": "74.850713",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.682369",
+    "longitude": "74.944259",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.698519",
+    "longitude": "75.084476",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.781173",
+    "longitude": "74.53461",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.397864",
+    "longitude": "74.640043",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.77087",
+    "longitude": "74.733707",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.881058",
+    "longitude": "74.710296",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.680974",
+    "longitude": "75.737149",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.341201",
+    "longitude": "75.131187",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.539722",
+    "longitude": "75.690624",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.413556",
+    "longitude": "75.783659",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.514507",
+    "longitude": "75.876633",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.650763",
+    "longitude": "75.876633",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.362856",
+    "longitude": "75.946324",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.377589",
+    "longitude": "76.860565",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.284638",
+    "longitude": "76.8375",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.366075",
+    "longitude": "76.886509",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.336979",
+    "longitude": "76.906683",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.273662",
+    "longitude": "76.952784",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.246336",
+    "longitude": "76.906683",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.193461",
+    "longitude": "77.171523",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.323633",
+    "longitude": "76.998867",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.703985",
+    "longitude": "76.900919",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.675329",
+    "longitude": "76.869213",
+    "store_ids": [
+      "68072b30-73d7-493c-8d6f-a61998fba1d8"
+    ]
+  },
+  {
+    "latitude": "30.678613",
+    "longitude": "76.84615",
+    "store_ids": [
+      "0bbd1898-6621-47bd-b806-7e5b822f0fc7"
+    ]
+  },
+  {
+    "latitude": "30.719322",
+    "longitude": "76.857682",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.647501",
+    "longitude": "76.900919",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.666645",
+    "longitude": "76.853358",
+    "store_ids": [
+      "68072b30-73d7-493c-8d6f-a61998fba1d8"
+    ]
+  },
+  {
+    "latitude": "30.543043",
+    "longitude": "76.929735",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.697729",
+    "longitude": "77.768095",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.706053",
+    "longitude": "77.859596",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.814361",
+    "longitude": "78.042368",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.772749",
+    "longitude": "77.962444",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.684643",
+    "longitude": "78.133638",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.63088",
+    "longitude": "77.665066",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.731015",
+    "longitude": "77.630702",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.487067",
+    "longitude": "80.34916",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.501938",
+    "longitude": "80.310168",
+    "store_ids": [
+      "01084781-096d-4da8-bc1c-cd56769e8d87"
+    ]
+  },
+  {
+    "latitude": "26.459456",
+    "longitude": "80.329666",
+    "store_ids": [
+      "5dbf0332-5872-4178-8c53-9d0666c9c86c"
+    ]
+  },
+  {
+    "latitude": "26.44184",
+    "longitude": "80.371433",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.469243",
+    "longitude": "80.301811",
+    "store_ids": [
+      "8b5992ad-b397-4fdb-be52-0d780c7cc501"
+    ]
+  },
+  {
+    "latitude": "26.448001",
+    "longitude": "80.311561",
+    "store_ids": [
+      "30a65b0b-3941-4a5f-a0e4-8d0626b37c89"
+    ]
+  },
+  {
+    "latitude": "26.405174",
+    "longitude": "80.390916",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.369244",
+    "longitude": "80.421525",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.472036",
+    "longitude": "80.257222",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.429299",
+    "longitude": "80.402048",
+    "store_ids": [
+      "54c72546-0ffd-4491-b075-faadc90e4cb0"
+    ]
+  },
+  {
+    "latitude": "26.404519",
+    "longitude": "80.338021",
+    "store_ids": [
+      "abed156e-9d65-4438-86b9-5c5c4696cbb6"
+    ]
+  },
+  {
+    "latitude": "26.464161",
+    "longitude": "80.312954",
+    "store_ids": [
+      "8b5992ad-b397-4fdb-be52-0d780c7cc501"
+    ]
+  },
+  {
+    "latitude": "26.417714",
+    "longitude": "80.360297",
+    "store_ids": [
+      "7d68a957-c0e8-4841-ad02-f98b4dddcee2"
+    ]
+  },
+  {
+    "latitude": "26.437168",
+    "longitude": "80.320443",
+    "store_ids": [
+      "1a96b304-c2cb-4a59-88cc-8e3496e1b525"
+    ]
+  },
+  {
+    "latitude": "26.392735",
+    "longitude": "80.379783",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.511386",
+    "longitude": "80.23492",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.540913",
+    "longitude": "80.282306",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.477466",
+    "longitude": "80.272552",
+    "store_ids": [
+      "6272824c-8e49-42e1-a31d-19f76894bf74"
+    ]
+  },
+  {
+    "latitude": "26.449106",
+    "longitude": "80.220977",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.390562",
+    "longitude": "80.304597",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.447467",
+    "longitude": "80.282306",
+    "store_ids": [
+      "30a65b0b-3941-4a5f-a0e4-8d0626b37c89"
+    ]
+  },
+  {
+    "latitude": "26.44132",
+    "longitude": "80.342198",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.496543",
+    "longitude": "80.273946",
+    "store_ids": [
+      "01084781-096d-4da8-bc1c-cd56769e8d87"
+    ]
+  },
+  {
+    "latitude": "26.478799",
+    "longitude": "80.292059",
+    "store_ids": [
+      "8b5992ad-b397-4fdb-be52-0d780c7cc501"
+    ]
+  },
+  {
+    "latitude": "26.509015",
+    "longitude": "80.264191",
+    "store_ids": [
+      "01084781-096d-4da8-bc1c-cd56769e8d87"
+    ]
+  },
+  {
+    "latitude": "26.427971",
+    "longitude": "80.296239",
+    "store_ids": [
+      "30a65b0b-3941-4a5f-a0e4-8d0626b37c89"
+    ]
+  },
+  {
+    "latitude": "25.464082",
+    "longitude": "81.816971",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.478277",
+    "longitude": "81.860682",
+    "store_ids": [
+      "a704a05d-0f16-42da-a511-627c9f613d33"
+    ]
+  },
+  {
+    "latitude": "25.433106",
+    "longitude": "81.841562",
+    "store_ids": [
+      "9b7e899c-2925-4eae-bf55-bed98c832df3"
+    ]
+  },
+  {
+    "latitude": "25.515378",
+    "longitude": "81.893448",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.435227",
+    "longitude": "81.879798",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.446688",
+    "longitude": "81.874336",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.381742",
+    "longitude": "81.816971",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.395329",
+    "longitude": "81.849757",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.358067",
+    "longitude": "81.920742",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.348872",
+    "longitude": "81.860682",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.467207",
+    "longitude": "81.767764",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.405323",
+    "longitude": "81.713052",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.542655",
+    "longitude": "81.85522",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.472139",
+    "longitude": "81.803306",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.440425",
+    "longitude": "81.788271",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.416424",
+    "longitude": "81.806039",
+    "store_ids": [
+      "9b7e899c-2925-4eae-bf55-bed98c832df3"
+    ]
+  },
+  {
+    "latitude": "25.447376",
+    "longitude": "81.807406",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.45833",
+    "longitude": "81.845659",
+    "store_ids": [
+      "a704a05d-0f16-42da-a511-627c9f613d33"
+    ]
+  },
+  {
+    "latitude": "25.428664",
+    "longitude": "81.920742",
+    "store_ids": [
+      "1abad930-6541-4216-afbe-fa376cf5bc72"
+    ]
+  },
+  {
+    "latitude": "30.7535",
+    "longitude": "76.805778",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.689625",
+    "longitude": "76.788471",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.673873",
+    "longitude": "76.800009",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.658271",
+    "longitude": "76.785587",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.746668",
+    "longitude": "76.79424",
+    "store_ids": [
+      "809ea1fc-cf81-4257-b2b5-7d53a911cae0"
+    ]
+  },
+  {
+    "latitude": "30.757359",
+    "longitude": "76.788471",
+    "store_ids": [
+      "809ea1fc-cf81-4257-b2b5-7d53a911cae0"
+    ]
+  },
+  {
+    "latitude": "30.768049",
+    "longitude": "76.782702",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.777678",
+    "longitude": "76.739424",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.750525",
+    "longitude": "76.776932",
+    "store_ids": [
+      "809ea1fc-cf81-4257-b2b5-7d53a911cae0"
+    ]
+  },
+  {
+    "latitude": "30.739834",
+    "longitude": "76.782702",
+    "store_ids": [
+      "809ea1fc-cf81-4257-b2b5-7d53a911cae0"
+    ]
+  },
+  {
+    "latitude": "30.733225",
+    "longitude": "76.787029",
+    "store_ids": [
+      "809ea1fc-cf81-4257-b2b5-7d53a911cae0"
+    ]
+  },
+  {
+    "latitude": "30.73033",
+    "longitude": "76.800009",
+    "store_ids": [
+      "9e82a26c-9e78-4ea5-93a7-b0b077538621"
+    ]
+  },
+  {
+    "latitude": "30.721342",
+    "longitude": "76.78126",
+    "store_ids": [
+      "2c224926-8b10-4295-9710-004f8e7b3880"
+    ]
+  },
+  {
+    "latitude": "30.726759",
+    "longitude": "76.765392",
+    "store_ids": [
+      "2c224926-8b10-4295-9710-004f8e7b3880"
+    ]
+  },
+  {
+    "latitude": "30.739607",
+    "longitude": "76.766835",
+    "store_ids": [
+      "2c224926-8b10-4295-9710-004f8e7b3880"
+    ]
+  },
+  {
+    "latitude": "30.752718",
+    "longitude": "76.716336",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.712207",
+    "longitude": "76.788471",
+    "store_ids": [
+      "9e82a26c-9e78-4ea5-93a7-b0b077538621"
+    ]
+  },
+  {
+    "latitude": "30.732539",
+    "longitude": "76.739424",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.699868",
+    "longitude": "76.750966",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.905888",
+    "longitude": "75.835965",
+    "store_ids": [
+      "9ac5f009-7623-4d1f-9b6a-d86e2f7c073e"
+    ]
+  },
+  {
+    "latitude": "30.887182",
+    "longitude": "75.84468",
+    "store_ids": [
+      "7bd58b6d-6d2d-4056-8d6e-830f6d9f6e09"
+    ]
+  },
+  {
+    "latitude": "30.872158",
+    "longitude": "75.835965",
+    "store_ids": [
+      "7bd58b6d-6d2d-4056-8d6e-830f6d9f6e09"
+    ]
+  },
+  {
+    "latitude": "30.903301",
+    "longitude": "75.81272",
+    "store_ids": [
+      "94ec12c0-9fd4-45fe-aea4-1e41e70413fb"
+    ]
+  },
+  {
+    "latitude": "30.85538",
+    "longitude": "75.86211",
+    "store_ids": [
+      "7bd58b6d-6d2d-4056-8d6e-830f6d9f6e09"
+    ]
+  },
+  {
+    "latitude": "30.966137",
+    "longitude": "75.923098",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.957965",
+    "longitude": "75.748778",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.902378",
+    "longitude": "75.905675",
+    "store_ids": [
+      "146ab60b-09e2-4856-8aa2-2f7c1a6977e6"
+    ]
+  },
+  {
+    "latitude": "30.889468",
+    "longitude": "75.789472",
+    "store_ids": [
+      "9fb7a7ca-e61c-4904-b339-749b6b45bf09"
+    ]
+  },
+  {
+    "latitude": "30.861462",
+    "longitude": "75.815626",
+    "store_ids": [
+      "699290c8-7009-4704-82c7-e90e8ba1be3e"
+    ]
+  },
+  {
+    "latitude": "30.872488",
+    "longitude": "75.940518",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.91121",
+    "longitude": "75.934711",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.857392",
+    "longitude": "75.905675",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.848708",
+    "longitude": "75.928905",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.976786",
+    "longitude": "78.122234",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.922872",
+    "longitude": "78.030954",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.949838",
+    "longitude": "78.076604",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.885611",
+    "longitude": "78.122234",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.895888",
+    "longitude": "77.985285",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.92654",
+    "longitude": "78.102273",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.140717",
+    "longitude": "78.030954",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.200981",
+    "longitude": "77.990995",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.182931",
+    "longitude": "78.016685",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.215521",
+    "longitude": "78.025247",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.22513",
+    "longitude": "78.002413",
+    "store_ids": [
+      "805ea004-3262-4094-9df6-0b87ad6d1476"
+    ]
+  },
+  {
+    "latitude": "27.203546",
+    "longitude": "78.088013",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.244648",
+    "longitude": "77.89389",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.150696",
+    "longitude": "77.945309",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.069226",
+    "longitude": "78.008122",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.177817",
+    "longitude": "77.990995",
+    "store_ids": [
+      "49e49285-a768-494f-9429-89a6cf673007"
+    ]
+  },
+  {
+    "latitude": "26.74485",
+    "longitude": "83.365582",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.756752",
+    "longitude": "83.560311",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.797229",
+    "longitude": "83.388287",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.789212",
+    "longitude": "83.373597",
+    "store_ids": [
+      "ae16b84f-5364-4a24-86b7-d42d13891838"
+    ]
+  },
+  {
+    "latitude": "26.753023",
+    "longitude": "83.352223",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.770837",
+    "longitude": "83.388287",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.852962",
+    "longitude": "83.357567",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.744774",
+    "longitude": "83.427",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.751713",
+    "longitude": "83.386952",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.731555",
+    "longitude": "83.394963",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.763195",
+    "longitude": "83.38161",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.820277",
+    "longitude": "83.410983",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.77336",
+    "longitude": "83.410983",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.791811",
+    "longitude": "83.304106",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.667265",
+    "longitude": "83.400304",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.853705",
+    "longitude": "80.948419",
+    "store_ids": [
+      "2140ad97-8423-4f24-9961-ed3ad44306c0",
+      "c08f4318-403b-4381-8a30-f9da9735ee2b"
+    ]
+  },
+  {
+    "latitude": "26.780963",
+    "longitude": "80.998158",
+    "store_ids": [
+      "f4bba239-1eaa-447f-bca5-8ac8d536cec1",
+      "f571c16f-aefa-42e9-818c-ff8193f48b61"
+    ]
+  },
+  {
+    "latitude": "26.872781",
+    "longitude": "80.882053",
+    "store_ids": [
+      "562cb7b1-abca-43e3-a6c9-051c96f50712",
+      "c08f4318-403b-4381-8a30-f9da9735ee2b"
+    ]
+  },
+  {
+    "latitude": "26.839181",
+    "longitude": "80.904182",
+    "store_ids": [
+      "2f8b56d8-3d1a-4dd3-ad94-2fc67df39b4f",
+      "c08f4318-403b-4381-8a30-f9da9735ee2b"
+    ]
+  },
+  {
+    "latitude": "26.815824",
+    "longitude": "80.904182",
+    "store_ids": [
+      "c3937bd5-02ec-43db-b411-93951a26a159"
+    ]
+  },
+  {
+    "latitude": "26.874673",
+    "longitude": "80.956711",
+    "store_ids": [
+      "22892d78-685c-4bba-8760-dec1e47621e1",
+      "c08f4318-403b-4381-8a30-f9da9735ee2b"
+    ]
+  },
+  {
+    "latitude": "26.867769",
+    "longitude": "80.940127",
+    "store_ids": [
+      "871ffc63-229f-4a33-b9f5-13644d79fb07",
+      "c08f4318-403b-4381-8a30-f9da9735ee2b"
+    ]
+  },
+  {
+    "latitude": "26.769573",
+    "longitude": "80.82117",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.811528",
+    "longitude": "80.837779",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.852459",
+    "longitude": "81.020253",
+    "store_ids": [
+      "4bbfd2a7-633f-40bf-91e3-3cfdd08fd6cc",
+      "1d0f933a-1268-4bb5-8481-fddf9337e467"
+    ]
+  },
+  {
+    "latitude": "26.82369",
+    "longitude": "80.890352",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.781495",
+    "longitude": "80.915243",
+    "store_ids": [
+      "6af4daba-3f48-4037-a5e4-0bb3c4042203",
+      "6c71a1ae-262e-443c-879a-3efbdc6dd8f0"
+    ]
+  },
+  {
+    "latitude": "26.806472",
+    "longitude": "80.760239",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.750613",
+    "longitude": "80.934598",
+    "store_ids": [
+      "72b84119-233b-4472-9e3c-651bd462d16f",
+      "6c71a1ae-262e-443c-879a-3efbdc6dd8f0"
+    ]
+  },
+  {
+    "latitude": "26.875736",
+    "longitude": "80.973292",
+    "store_ids": [
+      "22892d78-685c-4bba-8760-dec1e47621e1",
+      "1d0f933a-1268-4bb5-8481-fddf9337e467"
+    ]
+  },
+  {
+    "latitude": "26.891571",
+    "longitude": "80.992633",
+    "store_ids": [
+      "3e12177b-60c8-4cef-82ae-20cac5466597",
+      "f5eef65e-71fe-4789-bb83-3aba21d1eda4"
+    ]
+  },
+  {
+    "latitude": "26.842516",
+    "longitude": "80.865453",
+    "store_ids": [
+      "20c47a85-2b47-41d8-a02f-8a9b34c8bb4b"
+    ]
+  },
+  {
+    "latitude": "26.849186",
+    "longitude": "80.923539",
+    "store_ids": [
+      "2140ad97-8423-4f24-9961-ed3ad44306c0",
+      "c08f4318-403b-4381-8a30-f9da9735ee2b"
+    ]
+  },
+  {
+    "latitude": "26.916404",
+    "longitude": "81.061666",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.915431",
+    "longitude": "80.909713",
+    "store_ids": [
+      "b0caee9f-aa50-45bf-92bb-b533d55b50a0",
+      "f5eef65e-71fe-4789-bb83-3aba21d1eda4"
+    ]
+  },
+  {
+    "latitude": "26.948531",
+    "longitude": "80.970529",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.901832",
+    "longitude": "80.970529",
+    "store_ids": [
+      "52e787a0-2b5c-4184-8ba9-437d1d3408d8",
+      "f5eef65e-71fe-4789-bb83-3aba21d1eda4"
+    ]
+  },
+  {
+    "latitude": "26.778642",
+    "longitude": "80.870987",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.891191",
+    "longitude": "80.944656",
+    "store_ids": [
+      "1df7d024-3938-424e-a351-0c61f146c944",
+      "f5eef65e-71fe-4789-bb83-3aba21d1eda4"
+    ]
+  },
+  {
+    "latitude": "26.767427",
+    "longitude": "80.923539",
+    "store_ids": [
+      "72b84119-233b-4472-9e3c-651bd462d16f",
+      "6c71a1ae-262e-443c-879a-3efbdc6dd8f0"
+    ]
+  },
+  {
+    "latitude": "26.945877",
+    "longitude": "81.020253",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.839704",
+    "longitude": "80.946346",
+    "store_ids": [
+      "2140ad97-8423-4f24-9961-ed3ad44306c0",
+      "c08f4318-403b-4381-8a30-f9da9735ee2b"
+    ]
+  },
+  {
+    "latitude": "26.894389",
+    "longitude": "81.036821",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.775395",
+    "longitude": "80.956711",
+    "store_ids": [
+      "913cea7d-879a-46d4-a31d-375e6272a237",
+      "6c71a1ae-262e-443c-879a-3efbdc6dd8f0"
+    ]
+  },
+  {
+    "latitude": "26.783707",
+    "longitude": "80.995395",
+    "store_ids": [
+      "f4bba239-1eaa-447f-bca5-8ac8d536cec1",
+      "f571c16f-aefa-42e9-818c-ff8193f48b61"
+    ]
+  },
+  {
+    "latitude": "29.018865",
+    "longitude": "77.768095",
+    "store_ids": [
+      "73731b71-1ef1-403c-b1e0-e214f7c78b20"
+    ]
+  },
+  {
+    "latitude": "28.91045",
+    "longitude": "77.710869",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.977673",
+    "longitude": "77.725178",
+    "store_ids": [
+      "bd5c7fca-c35a-404c-a803-ce735acbeea5"
+    ]
+  },
+  {
+    "latitude": "28.939692",
+    "longitude": "77.779537",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.97702",
+    "longitude": "77.640726",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.927021",
+    "longitude": "77.642158",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.902078",
+    "longitude": "77.996704",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.336572",
+    "longitude": "79.41975",
+    "store_ids": [
+      "609b769b-43f4-4de9-8989-7dc8c2b5cdc2"
+    ]
+  },
+  {
+    "latitude": "28.423155",
+    "longitude": "79.456325",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.33305",
+    "longitude": "79.374714",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.283265",
+    "longitude": "79.402864",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.372979",
+    "longitude": "79.442259",
+    "store_ids": [
+      "ea4957dd-2004-479b-8817-569aa932f824"
+    ]
+  },
+  {
+    "latitude": "28.395112",
+    "longitude": "79.504132",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.442263",
+    "longitude": "79.442259",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.290263",
+    "longitude": "79.492886",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.262192",
+    "longitude": "76.571941",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.294172",
+    "longitude": "76.43317",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.088285",
+    "longitude": "76.496792",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.057852",
+    "longitude": "76.595056",
+    "store_ids": []
+  },
+  {
+    "latitude": "31.642764",
+    "longitude": "74.856561",
+    "store_ids": []
+  },
+  {
+    "latitude": "31.631933",
+    "longitude": "74.836092",
+    "store_ids": [
+      "9c668882-09c3-4d40-8a71-de5200ded97e"
+    ]
+  },
+  {
+    "latitude": "31.637656",
+    "longitude": "74.825856",
+    "store_ids": [
+      "9c668882-09c3-4d40-8a71-de5200ded97e"
+    ]
+  },
+  {
+    "latitude": "31.605246",
+    "longitude": "74.915031",
+    "store_ids": []
+  },
+  {
+    "latitude": "31.685278",
+    "longitude": "74.885799",
+    "store_ids": []
+  },
+  {
+    "latitude": "31.565386",
+    "longitude": "74.81562",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.990508",
+    "longitude": "76.987348",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.958208",
+    "longitude": "77.125506",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.971146",
+    "longitude": "76.906683",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.904319",
+    "longitude": "77.16002",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.08317",
+    "longitude": "76.883626",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.060039",
+    "longitude": "77.113998",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.867699",
+    "longitude": "77.148192",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.897643",
+    "longitude": "77.090981",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.078424",
+    "longitude": "77.067959",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.142493",
+    "longitude": "77.021902",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.66437",
+    "longitude": "77.438643",
+    "store_ids": [
+      "2027ae67-e366-4f60-ab7d-64ffbebfeee0",
+      "5c78735a-a78d-4d43-8cb1-9ba75215f8a7"
+    ]
+  },
+  {
+    "latitude": "28.680593",
+    "longitude": "77.458724",
+    "store_ids": [
+      "6e5b43c7-af2f-4b55-af47-72c69fb22bf9",
+      "5c78735a-a78d-4d43-8cb1-9ba75215f8a7"
+    ]
+  },
+  {
+    "latitude": "28.745099",
+    "longitude": "77.412819",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.701175",
+    "longitude": "77.372638",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.679818",
+    "longitude": "77.343516",
+    "store_ids": [
+      "8a93c269-b281-4e2d-98b8-cce217827cd0",
+      "57a0c2ae-1cf1-4c4a-99eb-eb2e19864075"
+    ]
+  },
+  {
+    "latitude": "28.675737",
+    "longitude": "77.331007",
+    "store_ids": [
+      "8a93c269-b281-4e2d-98b8-cce217827cd0",
+      "57a0c2ae-1cf1-4c4a-99eb-eb2e19864075"
+    ]
+  },
+  {
+    "latitude": "28.676722",
+    "longitude": "77.38699",
+    "store_ids": [
+      "961f1f02-65c5-403a-a32f-edaf705eadfd",
+      "94a98275-e83a-4a25-ba73-690cbfaa1d55"
+    ]
+  },
+  {
+    "latitude": "28.615871",
+    "longitude": "77.441512",
+    "store_ids": [
+      "4f8f3e7f-09f6-4bea-924e-c29764c91e48",
+      "917688f6-e1ca-4cd5-9b42-4190feb6e75d"
+    ]
+  },
+  {
+    "latitude": "28.660917",
+    "longitude": "77.341057",
+    "store_ids": [
+      "cd3f5394-9700-484e-97d7-7d68e3a620af",
+      "94a98275-e83a-4a25-ba73-690cbfaa1d55"
+    ]
+  },
+  {
+    "latitude": "28.668972",
+    "longitude": "77.3292",
+    "store_ids": [
+      "cd3f5394-9700-484e-97d7-7d68e3a620af",
+      "57a0c2ae-1cf1-4c4a-99eb-eb2e19864075"
+    ]
+  },
+  {
+    "latitude": "28.650531",
+    "longitude": "77.352542",
+    "store_ids": [
+      "5bc98314-fe7f-490b-a41c-cb478ab34dd9",
+      "94a98275-e83a-4a25-ba73-690cbfaa1d55"
+    ]
+  },
+  {
+    "latitude": "28.684576",
+    "longitude": "77.485971",
+    "store_ids": [
+      "7ace5e2b-b072-4daf-978c-4577484a363d",
+      "5c78735a-a78d-4d43-8cb1-9ba75215f8a7"
+    ]
+  },
+  {
+    "latitude": "28.643823",
+    "longitude": "77.372638",
+    "store_ids": [
+      "46447215-f214-4e66-9e93-26a5d8509daa",
+      "94a98275-e83a-4a25-ba73-690cbfaa1d55"
+    ]
+  },
+  {
+    "latitude": "28.676614",
+    "longitude": "77.539013",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.629409",
+    "longitude": "77.432905",
+    "store_ids": [
+      "4fd851db-0ec5-499e-9c7b-724a03966eb8",
+      "d000be21-9dc2-4554-9cb0-b2f5ffe340cc"
+    ]
+  },
+  {
+    "latitude": "28.703982",
+    "longitude": "77.432905",
+    "store_ids": [
+      "b0e1957d-a3c6-4f2e-9b73-ab0c026194e2",
+      "5c78735a-a78d-4d43-8cb1-9ba75215f8a7"
+    ]
+  },
+  {
+    "latitude": "28.642935",
+    "longitude": "77.344194",
+    "store_ids": [
+      "5c012bfa-7eab-4aa6-9285-60683ed3107c",
+      "94a98275-e83a-4a25-ba73-690cbfaa1d55"
+    ]
+  },
+  {
+    "latitude": "30.012471",
+    "longitude": "76.8375",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.965501",
+    "longitude": "76.710563",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.001414",
+    "longitude": "76.618166",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.107059",
+    "longitude": "76.652822",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.118894",
+    "longitude": "76.768277",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.988873",
+    "longitude": "76.94126",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.998094",
+    "longitude": "77.033418",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.120437",
+    "longitude": "76.895155",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.58212",
+    "longitude": "77.326699",
+    "store_ids": [
+      "3ed41d5c-5bb0-4ea9-b041-4d40c2b1f963",
+      "207df3d7-87f9-4b65-b6be-8e7114d22512"
+    ]
+  },
+  {
+    "latitude": "28.561335",
+    "longitude": "77.349671",
+    "store_ids": [
+      "3422fce9-9587-44a5-8cff-8ee60c65617d",
+      "554896ba-1bc3-493a-84c2-8a0ce07c2611"
+    ]
+  },
+  {
+    "latitude": "28.516046",
+    "longitude": "77.396868",
+    "store_ids": [
+      "5a8602ea-7595-466b-bb0d-8ab128a663e0",
+      "3d914942-fcf7-4222-8029-aff9d8ee3743"
+    ]
+  },
+  {
+    "latitude": "28.532293",
+    "longitude": "77.40708",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.5199",
+    "longitude": "77.458724",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.619795",
+    "longitude": "77.361155",
+    "store_ids": [
+      "082229f8-d7ec-4b29-8220-db1d7776d7e9",
+      "81d2371c-4e12-4122-9799-f8c21807947d"
+    ]
+  },
+  {
+    "latitude": "28.455252",
+    "longitude": "77.50461",
+    "store_ids": [
+      "581b1461-3a0b-4698-adb6-93a51207b2e1",
+      "89f3ad21-ce3d-41d6-a3f5-54563135c339"
+    ]
+  },
+  {
+    "latitude": "30.726427",
+    "longitude": "76.707677",
+    "store_ids": [
+      "1fe58380-341b-4509-b712-a66f5aea2e86",
+      "6355d6a1-48e0-48fb-a1fd-9cba4fb43086"
+    ]
+  },
+  {
+    "latitude": "30.719132",
+    "longitude": "76.720616",
+    "store_ids": [
+      "1fe58380-341b-4509-b712-a66f5aea2e86",
+      "6355d6a1-48e0-48fb-a1fd-9cba4fb43086"
+    ]
+  },
+  {
+    "latitude": "30.683666",
+    "longitude": "76.730766",
+    "store_ids": [
+      "4889c148-d24c-4837-888b-fbb7c0d86a91",
+      "f96c2017-5f6c-479c-bd88-1ec4ecf3c889"
+    ]
+  },
+  {
+    "latitude": "30.703853",
+    "longitude": "76.707677",
+    "store_ids": [
+      "1fe58380-341b-4509-b712-a66f5aea2e86",
+      "f96c2017-5f6c-479c-bd88-1ec4ecf3c889"
+    ]
+  },
+  {
+    "latitude": "29.910999",
+    "longitude": "77.539013",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.981114",
+    "longitude": "77.498875",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.056259",
+    "longitude": "77.630702",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.238093",
+    "longitude": "77.630702",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.95575",
+    "longitude": "77.590597",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.334582",
+    "longitude": "78.053781",
+    "store_ids": [
+      "5dc64daf-aad9-41c9-8b2a-45f1c6e37fb5"
+    ]
+  },
+  {
+    "latitude": "30.260071",
+    "longitude": "77.985285",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.348986",
+    "longitude": "78.025247",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.274706",
+    "longitude": "78.082308",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.326729",
+    "longitude": "77.999559",
+    "store_ids": [
+      "7d1a958f-c3c0-498d-ac4f-1482550f08d4"
+    ]
+  },
+  {
+    "latitude": "30.309445",
+    "longitude": "77.905318",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.285096",
+    "longitude": "78.133638",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.413213",
+    "longitude": "78.167844",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.355733",
+    "longitude": "77.85388",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.280869",
+    "longitude": "78.056634",
+    "store_ids": [
+      "f69d994e-7d4d-4a5f-bc76-db7b26027ef0"
+    ]
+  },
+  {
+    "latitude": "30.358402",
+    "longitude": "78.096569",
+    "store_ids": [
+      "9b74fd73-1753-4b1c-a6df-6b8d01bd168c"
+    ]
+  },
+  {
+    "latitude": "30.372289",
+    "longitude": "78.06234",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.294757",
+    "longitude": "78.022393",
+    "store_ids": [
+      "d0e7fabd-57c5-4073-9c43-dc5bbdf3d8fd"
+    ]
+  },
+  {
+    "latitude": "30.431744",
+    "longitude": "78.122234",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.389966",
+    "longitude": "77.297978",
+    "store_ids": [
+      "3d277bf6-7a5f-498a-a956-56fd8ab9ef82"
+    ]
+  },
+  {
+    "latitude": "28.419423",
+    "longitude": "77.366896",
+    "store_ids": [
+      "1aeea608-4e80-48a1-9c8a-0d0ac28eb876",
+      "a95989f3-34a1-4288-b318-a01c946b6919"
+    ]
+  },
+  {
+    "latitude": "28.453861",
+    "longitude": "77.303274",
+    "store_ids": [
+      "48c6fc6b-daa9-4795-a1d7-a1a424e74009",
+      "a95989f3-34a1-4288-b318-a01c946b6919"
+    ]
+  },
+  {
+    "latitude": "28.291938",
+    "longitude": "77.355413",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.370024",
+    "longitude": "77.26925",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.373375",
+    "longitude": "77.335314",
+    "store_ids": [
+      "425e3ad2-0f08-4dbb-b90b-c892dc41be83",
+      "a95989f3-34a1-4288-b318-a01c946b6919"
+    ]
+  },
+  {
+    "latitude": "28.388988",
+    "longitude": "77.318084",
+    "store_ids": [
+      "425e3ad2-0f08-4dbb-b90b-c892dc41be83",
+      "a95989f3-34a1-4288-b318-a01c946b6919"
+    ]
+  },
+  {
+    "latitude": "28.434935",
+    "longitude": "77.318084",
+    "store_ids": [
+      "48c6fc6b-daa9-4795-a1d7-a1a424e74009",
+      "a95989f3-34a1-4288-b318-a01c946b6919"
+    ]
+  },
+  {
+    "latitude": "28.487039",
+    "longitude": "77.292233",
+    "store_ids": [
+      "ccb84935-4941-4c2f-a0cf-a65d8a6cf57a"
+    ]
+  },
+  {
+    "latitude": "28.466675",
+    "longitude": "77.289361",
+    "store_ids": [
+      "6a871d62-f77e-41ca-bd6e-b9754de4a90b"
+    ]
+  },
+  {
+    "latitude": "28.420741",
+    "longitude": "77.289361",
+    "store_ids": [
+      "fb48fc60-af3a-421b-9cce-928e2c0cb95f",
+      "a95989f3-34a1-4288-b318-a01c946b6919"
+    ]
+  },
+  {
+    "latitude": "28.486833",
+    "longitude": "77.335185",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.185503",
+    "longitude": "75.870824",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.232298",
+    "longitude": "75.934711",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.115878",
+    "longitude": "75.870824",
+    "store_ids": [
+      "bf18569a-7111-4e13-b389-edf020a1218d"
+    ]
+  },
+  {
+    "latitude": "25.131789",
+    "longitude": "75.885346",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.137963",
+    "longitude": "75.859205",
+    "store_ids": [
+      "bf18569a-7111-4e13-b389-edf020a1218d"
+    ]
+  },
+  {
+    "latitude": "25.1737",
+    "longitude": "75.83887",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.159114",
+    "longitude": "75.867919",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.197826",
+    "longitude": "75.818531",
+    "store_ids": [
+      "b359ba27-8fe9-4c95-85f0-0939de00f5a4"
+    ]
+  },
+  {
+    "latitude": "25.155168",
+    "longitude": "75.827248",
+    "store_ids": [
+      "52250f99-81fe-404b-a8bf-b0ad335f5ec3"
+    ]
+  },
+  {
+    "latitude": "25.122978",
+    "longitude": "75.824343",
+    "store_ids": [
+      "bf18569a-7111-4e13-b389-edf020a1218d"
+    ]
+  },
+  {
+    "latitude": "31.32711",
+    "longitude": "75.591709",
+    "store_ids": [
+      "5e770e6a-d0c6-4c35-b3b3-090a9d1f157b"
+    ]
+  },
+  {
+    "latitude": "31.310181",
+    "longitude": "75.492728",
+    "store_ids": []
+  },
+  {
+    "latitude": "31.30073",
+    "longitude": "75.556782",
+    "store_ids": [
+      "adff0588-4405-4d2c-ba0f-059a9e563839"
+    ]
+  },
+  {
+    "latitude": "31.34432",
+    "longitude": "75.581138",
+    "store_ids": [
+      "bfbe7463-5e2b-4358-9899-2dd0f8a631dd"
+    ]
+  },
+  {
+    "latitude": "31.295691",
+    "longitude": "75.635356",
+    "store_ids": []
+  },
+  {
+    "latitude": "31.321417",
+    "longitude": "75.578613",
+    "store_ids": [
+      "5e770e6a-d0c6-4c35-b3b3-090a9d1f157b"
+    ]
+  },
+  {
+    "latitude": "31.322361",
+    "longitude": "75.623718",
+    "store_ids": [
+      "6d105ce4-1dd6-416f-86d3-310f7f2ffaab"
+    ]
+  },
+  {
+    "latitude": "31.338776",
+    "longitude": "75.571336",
+    "store_ids": [
+      "bfbe7463-5e2b-4358-9899-2dd0f8a631dd"
+    ]
+  },
+  {
+    "latitude": "31.363346",
+    "longitude": "75.614989",
+    "store_ids": []
+  },
+  {
+    "latitude": "31.291583",
+    "longitude": "75.673173",
+    "store_ids": []
+  },
+  {
+    "latitude": "31.293759",
+    "longitude": "75.581523",
+    "store_ids": [
+      "1fc29afb-f9cf-4819-8af5-dc02edf25642"
+    ]
+  },
+  {
+    "latitude": "30.289641",
+    "longitude": "76.340573",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.357187",
+    "longitude": "76.44474",
+    "store_ids": [
+      "309c7b5f-7840-442d-adc1-908c393f760e"
+    ]
+  },
+  {
+    "latitude": "30.357274",
+    "longitude": "76.418706",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.385012",
+    "longitude": "76.38688",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.354979",
+    "longitude": "76.343468",
+    "store_ids": []
+  },
+  {
+    "latitude": "30.309101",
+    "longitude": "76.525701",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.145784",
+    "longitude": "76.906683",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.192451",
+    "longitude": "76.854799",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.101235",
+    "longitude": "76.802893",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.632743",
+    "longitude": "77.219597",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.63522",
+    "longitude": "77.246886",
+    "store_ids": [
+      "3d03e7a7-4ded-458a-9349-2978cd333ef0"
+    ]
+  },
+  {
+    "latitude": "28.591647",
+    "longitude": "77.231786",
+    "store_ids": [
+      "73b0c599-728d-4642-a0e3-1e5b68836327",
+      "94f50df3-fb2e-4c36-ad6f-8a00bfd1c6af"
+    ]
+  },
+  {
+    "latitude": "28.614153",
+    "longitude": "77.195962",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.655679",
+    "longitude": "77.18746",
+    "store_ids": [
+      "70bbc5c2-af73-43f1-a5ee-e76a9ca9019f",
+      "9bb503dd-63be-4b26-b2ba-8fe51192d2bd"
+    ]
+  },
+  {
+    "latitude": "28.661078",
+    "longitude": "77.234588",
+    "store_ids": [
+      "33622370-e10f-4996-aaf2-84076a8f66c2",
+      "c978abd4-1b79-40d2-ab47-ec19b7c29d41"
+    ]
+  },
+  {
+    "latitude": "28.678583",
+    "longitude": "77.191584",
+    "store_ids": [
+      "7e7b4df8-a5a1-4acb-9aa4-b5ecf86a6f2b",
+      "c978abd4-1b79-40d2-ab47-ec19b7c29d41"
+    ]
+  },
+  {
+    "latitude": "28.648216",
+    "longitude": "77.164072",
+    "store_ids": [
+      "b8d61fbc-eb4a-4836-b785-e3b63aa3fa62",
+      "9bb503dd-63be-4b26-b2ba-8fe51192d2bd"
+    ]
+  },
+  {
+    "latitude": "28.710865",
+    "longitude": "77.203149",
+    "store_ids": [
+      "433bb54d-7e04-4f91-ac03-bee784a3102c",
+      "c978abd4-1b79-40d2-ab47-ec19b7c29d41"
+    ]
+  },
+  {
+    "latitude": "28.59293",
+    "longitude": "77.12182",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.604077",
+    "longitude": "77.211611",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.628214",
+    "longitude": "77.14939",
+    "store_ids": [
+      "c2c05ffc-0eb1-4164-86cc-49cb1271d92a",
+      "9bb503dd-63be-4b26-b2ba-8fe51192d2bd"
+    ]
+  },
+  {
+    "latitude": "28.58912",
+    "longitude": "77.256843",
+    "store_ids": [
+      "4954030c-39da-4fc6-8e33-c880095cc345"
+    ]
+  },
+  {
+    "latitude": "28.579276",
+    "longitude": "77.258477",
+    "store_ids": [
+      "4954030c-39da-4fc6-8e33-c880095cc345",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.658925",
+    "longitude": "77.145761",
+    "store_ids": [
+      "c2c05ffc-0eb1-4164-86cc-49cb1271d92a",
+      "9bb503dd-63be-4b26-b2ba-8fe51192d2bd"
+    ]
+  },
+  {
+    "latitude": "28.54717",
+    "longitude": "77.200275",
+    "store_ids": [
+      "da285a58-89f2-448e-b5d7-dddce15e9bba",
+      "94f50df3-fb2e-4c36-ad6f-8a00bfd1c6af"
+    ]
+  },
+  {
+    "latitude": "28.527912",
+    "longitude": "77.208899",
+    "store_ids": [
+      "da285a58-89f2-448e-b5d7-dddce15e9bba",
+      "3f23fe21-69e5-4b46-9e90-809b609a3131"
+    ]
+  },
+  {
+    "latitude": "28.643608",
+    "longitude": "77.086984",
+    "store_ids": [
+      "7841c1f4-64bf-4c81-824f-c5369ead251d",
+      "681003a8-bce8-4481-980d-8253746471e6"
+    ]
+  },
+  {
+    "latitude": "28.534692",
+    "longitude": "77.260174",
+    "store_ids": [
+      "84f9975d-cc19-4d21-aa76-43e3aab9779a",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.538848",
+    "longitude": "77.275373",
+    "store_ids": [
+      "84f9975d-cc19-4d21-aa76-43e3aab9779a",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.588363",
+    "longitude": "77.185907",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.564058",
+    "longitude": "77.173697",
+    "store_ids": [
+      "4b54927e-5c54-4564-8c9f-1e518e6488e3",
+      "f88dd0bb-dc4a-400c-badc-d8fc18aeaeb7"
+    ]
+  },
+  {
+    "latitude": "28.574812",
+    "longitude": "77.199129",
+    "store_ids": [
+      "7e586f3d-8e30-4859-8851-4476b8a965f4",
+      "94f50df3-fb2e-4c36-ad6f-8a00bfd1c6af"
+    ]
+  },
+  {
+    "latitude": "28.568379",
+    "longitude": "77.241646",
+    "store_ids": [
+      "5cad640b-fe79-43bb-aac2-849733defb55",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.562147",
+    "longitude": "77.285702",
+    "store_ids": [
+      "65b4f18b-34d3-43f7-a3ce-361471b15345",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.668316",
+    "longitude": "77.13654",
+    "store_ids": [
+      "05d5e1df-5159-4484-8322-87e02e4655c3",
+      "9bb503dd-63be-4b26-b2ba-8fe51192d2bd"
+    ]
+  },
+  {
+    "latitude": "28.646473",
+    "longitude": "77.116945",
+    "store_ids": [
+      "852818aa-dfa5-4943-b2b5-1cd51c26bdd5",
+      "8dde3f32-eae6-42e2-a9cc-ada2f0a9d22f"
+    ]
+  },
+  {
+    "latitude": "28.631833",
+    "longitude": "77.138759",
+    "store_ids": [
+      "4ba5f414-34e0-442c-938e-ef76fc9804bf",
+      "8dde3f32-eae6-42e2-a9cc-ada2f0a9d22f"
+    ]
+  },
+  {
+    "latitude": "28.564719",
+    "longitude": "77.200324",
+    "store_ids": [
+      "7e586f3d-8e30-4859-8851-4476b8a965f4",
+      "94f50df3-fb2e-4c36-ad6f-8a00bfd1c6af"
+    ]
+  },
+  {
+    "latitude": "28.495683",
+    "longitude": "77.166494",
+    "store_ids": [
+      "55bbe2f9-33f4-4ce0-a864-9730284b2a7c",
+      "f88dd0bb-dc4a-400c-badc-d8fc18aeaeb7"
+    ]
+  },
+  {
+    "latitude": "28.650835",
+    "longitude": "77.267595",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.686553",
+    "longitude": "77.292216",
+    "store_ids": [
+      "f090d50a-60ed-4b98-9493-3f0d9751a3f3",
+      "57a0c2ae-1cf1-4c4a-99eb-eb2e19864075"
+    ]
+  },
+  {
+    "latitude": "28.723555",
+    "longitude": "77.175676",
+    "store_ids": [
+      "f36075d2-40c9-4e63-a9d0-4fe36b2ca31f",
+      "c978abd4-1b79-40d2-ab47-ec19b7c29d41"
+    ]
+  },
+  {
+    "latitude": "28.693044",
+    "longitude": "77.135095",
+    "store_ids": [
+      "57fbfbc2-6ec0-4465-aff3-81e771faf303",
+      "f2818431-48b5-4b57-9ec5-02e8eef7bc92"
+    ]
+  },
+  {
+    "latitude": "28.673827",
+    "longitude": "77.164258",
+    "store_ids": [
+      "656bef79-0f91-45cd-9f93-8fedf1a932ce",
+      "9bb503dd-63be-4b26-b2ba-8fe51192d2bd"
+    ]
+  },
+  {
+    "latitude": "28.8222",
+    "longitude": "77.171813",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.544148",
+    "longitude": "77.115981",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.51322",
+    "longitude": "77.109319",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.800158",
+    "longitude": "77.035485",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.834898",
+    "longitude": "77.089878",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.669661",
+    "longitude": "77.056876",
+    "store_ids": [
+      "bc4b39b0-c1c4-4b68-aef5-076a323e8cf4",
+      "681003a8-bce8-4481-980d-8253746471e6"
+    ]
+  },
+  {
+    "latitude": "28.750585",
+    "longitude": "77.141981",
+    "store_ids": [
+      "da5125c1-14c6-4407-b8a3-7e2749ecbc51",
+      "2a655482-29d6-48fd-bb6c-6051fb5900ee"
+    ]
+  },
+  {
+    "latitude": "28.611665",
+    "longitude": "76.978678",
+    "store_ids": [
+      "ac3b884c-75d1-48a6-b477-0a0782cf19b4"
+    ]
+  },
+  {
+    "latitude": "28.50069",
+    "longitude": "77.315212",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.596588",
+    "longitude": "77.082604",
+    "store_ids": [
+      "9550ef6d-d1b6-4eb1-b379-580404d9c1d3",
+      "8dde3f32-eae6-42e2-a9cc-ada2f0a9d22f"
+    ]
+  },
+  {
+    "latitude": "28.604074",
+    "longitude": "77.097951",
+    "store_ids": [
+      "9550ef6d-d1b6-4eb1-b379-580404d9c1d3",
+      "8dde3f32-eae6-42e2-a9cc-ada2f0a9d22f"
+    ]
+  },
+  {
+    "latitude": "28.471758",
+    "longitude": "77.131532",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.54786",
+    "longitude": "77.237641",
+    "store_ids": [
+      "5dbd7e40-75db-452c-bd76-7dac3d7c0c0b",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.562364",
+    "longitude": "77.223073",
+    "store_ids": [
+      "32ac84e0-0a29-4c1f-865a-c33780173389",
+      "94f50df3-fb2e-4c36-ad6f-8a00bfd1c6af"
+    ]
+  },
+  {
+    "latitude": "28.656903",
+    "longitude": "77.282292",
+    "store_ids": [
+      "444a442d-982b-437d-a8eb-9ca9385eaed5",
+      "57a0c2ae-1cf1-4c4a-99eb-eb2e19864075"
+    ]
+  },
+  {
+    "latitude": "28.689477",
+    "longitude": "77.175409",
+    "store_ids": [
+      "2522b064-b9af-4967-9c41-2bfffe8786d3",
+      "c978abd4-1b79-40d2-ab47-ec19b7c29d41"
+    ]
+  },
+  {
+    "latitude": "28.675686",
+    "longitude": "77.259634",
+    "store_ids": [
+      "b8aed0f4-59e0-4387-825d-406800150b71"
+    ]
+  },
+  {
+    "latitude": "28.690398",
+    "longitude": "77.227539",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.645567",
+    "longitude": "77.211097",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.681236",
+    "longitude": "77.121107",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.56164",
+    "longitude": "77.155884",
+    "store_ids": [
+      "4b54927e-5c54-4564-8c9f-1e518e6488e3",
+      "f88dd0bb-dc4a-400c-badc-d8fc18aeaeb7"
+    ]
+  },
+  {
+    "latitude": "28.621743",
+    "longitude": "77.088269",
+    "store_ids": [
+      "dad7f2ba-1d52-4c30-8c5a-c7fa01f705a1",
+      "8dde3f32-eae6-42e2-a9cc-ada2f0a9d22f"
+    ]
+  },
+  {
+    "latitude": "28.621763",
+    "longitude": "77.055823",
+    "store_ids": [
+      "6e87b960-71e6-414e-b6f7-55d08e324811",
+      "681003a8-bce8-4481-980d-8253746471e6"
+    ]
+  },
+  {
+    "latitude": "28.635426",
+    "longitude": "77.185676",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.53509",
+    "longitude": "77.056552",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.509994",
+    "longitude": "77.235484",
+    "store_ids": [
+      "3072e208-7b9a-4821-a000-e121ba8a43fa",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.669879",
+    "longitude": "77.106916",
+    "store_ids": [
+      "c46cc946-f7eb-4f5b-aaff-cf6fdcba6618",
+      "681003a8-bce8-4481-980d-8253746471e6"
+    ]
+  },
+  {
+    "latitude": "28.625869",
+    "longitude": "77.114258",
+    "store_ids": [
+      "42d58798-26cc-429a-aea6-92dbbecae776",
+      "8dde3f32-eae6-42e2-a9cc-ada2f0a9d22f"
+    ]
+  },
+  {
+    "latitude": "28.567812",
+    "longitude": "77.261647",
+    "store_ids": [
+      "4954030c-39da-4fc6-8e33-c880095cc345",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.567447",
+    "longitude": "77.187337",
+    "store_ids": [
+      "7e586f3d-8e30-4859-8851-4476b8a965f4",
+      "94f50df3-fb2e-4c36-ad6f-8a00bfd1c6af"
+    ]
+  },
+  {
+    "latitude": "28.543301",
+    "longitude": "77.168267",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.482016",
+    "longitude": "77.217073",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.609677",
+    "longitude": "77.227942",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.512439",
+    "longitude": "77.137011",
+    "store_ids": [
+      "5ebdb9c0-59e0-436c-9e67-5594e00a45af",
+      "f88dd0bb-dc4a-400c-badc-d8fc18aeaeb7"
+    ]
+  },
+  {
+    "latitude": "28.56134",
+    "longitude": "77.002088",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.683778",
+    "longitude": "76.970928",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.57093",
+    "longitude": "76.905829",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.455017",
+    "longitude": "77.183701",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.589985",
+    "longitude": "77.04438",
+    "store_ids": [
+      "4332c938-8582-4628-95d9-2844086daf78"
+    ]
+  },
+  {
+    "latitude": "28.531953",
+    "longitude": "77.295854",
+    "store_ids": [
+      "93cd2e82-b141-41bc-91c5-2805396da43d",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.57099",
+    "longitude": "77.071841",
+    "store_ids": [
+      "d9b656fe-41ad-4645-9fad-af3bf1cf7d8f",
+      "5d3f3780-ff53-4795-9562-6416e97c007a"
+    ]
+  },
+  {
+    "latitude": "28.610225",
+    "longitude": "77.030059",
+    "store_ids": [
+      "41b702ce-4302-4b24-8997-c9bd507d5ea7",
+      "5d3f3780-ff53-4795-9562-6416e97c007a"
+    ]
+  },
+  {
+    "latitude": "28.496558",
+    "longitude": "77.238631",
+    "store_ids": [
+      "3072e208-7b9a-4821-a000-e121ba8a43fa",
+      "3f23fe21-69e5-4b46-9e90-809b609a3131"
+    ]
+  },
+  {
+    "latitude": "28.734376",
+    "longitude": "77.011049",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.776237",
+    "longitude": "77.100163",
+    "store_ids": []
+  },
+  {
+    "latitude": "28.692526",
+    "longitude": "77.088445",
+    "store_ids": [
+      "b5c0eebd-0709-4d34-9530-d4540f4db62f",
+      "f2818431-48b5-4b57-9ec5-02e8eef7bc92"
+    ]
+  },
+  {
+    "latitude": "28.757882",
+    "longitude": "77.199756",
+    "store_ids": [
+      "23e18cbf-7e46-49ec-a559-d5a6cdb09d3b"
+    ]
+  },
+  {
+    "latitude": "28.715345",
+    "longitude": "77.108801",
+    "store_ids": [
+      "b5c0eebd-0709-4d34-9530-d4540f4db62f",
+      "f2818431-48b5-4b57-9ec5-02e8eef7bc92"
+    ]
+  },
+  {
+    "latitude": "28.701985",
+    "longitude": "77.078869",
+    "store_ids": [
+      "ad2daf79-44db-459d-9a45-d7807b5b37a2",
+      "194a2150-fe10-4b2a-b495-badf3eb25273"
+    ]
+  },
+  {
+    "latitude": "28.670321",
+    "longitude": "77.085768",
+    "store_ids": [
+      "31a8b99d-0d1a-4f32-a367-e6cf62bb8603",
+      "681003a8-bce8-4481-980d-8253746471e6"
+    ]
+  },
+  {
+    "latitude": "28.712211",
+    "longitude": "77.15903",
+    "store_ids": [
+      "2522b064-b9af-4967-9c41-2bfffe8786d3",
+      "c978abd4-1b79-40d2-ab47-ec19b7c29d41"
+    ]
+  },
+  {
+    "latitude": "28.735894",
+    "longitude": "77.128683",
+    "store_ids": [
+      "1edbc6f5-f8dd-4dd0-9555-a8a5d90dd2d7",
+      "2a655482-29d6-48fd-bb6c-6051fb5900ee"
+    ]
+  },
+  {
+    "latitude": "28.548815",
+    "longitude": "77.253805",
+    "store_ids": [
+      "5dbd7e40-75db-452c-bd76-7dac3d7c0c0b",
+      "efaa6e99-a68b-4c31-a50a-1bc5712533d7"
+    ]
+  },
+  {
+    "latitude": "28.607891",
+    "longitude": "77.305488",
+    "store_ids": [
+      "0c865653-8eac-4a33-900c-d2ed7f3c0477",
+      "e0a0c84c-0819-482e-8b95-55d4b32592d8"
+    ]
+  },
+  {
+    "latitude": "28.636221",
+    "longitude": "77.292233",
+    "store_ids": [
+      "c951a741-faf1-4189-be8c-e441b6985190",
+      "e0a0c84c-0819-482e-8b95-55d4b32592d8"
+    ]
+  },
+  {
+    "latitude": "28.697437",
+    "longitude": "77.315629",
+    "store_ids": [
+      "526b1499-dbae-4fc6-b67d-70e350768cae",
+      "57a0c2ae-1cf1-4c4a-99eb-eb2e19864075"
+    ]
+  },
+  {
+    "latitude": "28.71567",
+    "longitude": "77.277957",
+    "store_ids": [
+      "49d9df40-6b3b-4f3e-ad7d-bda18f57d419",
+      "57a0c2ae-1cf1-4c4a-99eb-eb2e19864075"
+    ]
+  },
+  {
+    "latitude": "28.676186",
+    "longitude": "77.315935",
+    "store_ids": [
+      "34420157-825b-4822-acc8-9f20ae822fe3",
+      "57a0c2ae-1cf1-4c4a-99eb-eb2e19864075"
+    ]
+  },
+  {
+    "latitude": "28.595325",
+    "longitude": "77.311864",
+    "store_ids": [
+      "5c5665dc-dc3a-4a6e-9829-acecadfe49d5",
+      "207df3d7-87f9-4b65-b6be-8e7114d22512"
+    ]
+  },
+  {
+    "latitude": "28.526653",
+    "longitude": "77.079151",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.917892",
+    "longitude": "75.801538",
+    "store_ids": [
+      "aec2283f-be4f-4545-87b0-febac02c9fc1"
+    ]
+  },
+  {
+    "latitude": "26.935785",
+    "longitude": "75.833613",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.917508",
+    "longitude": "75.834013",
+    "store_ids": [
+      "b1f236d6-edfd-47eb-a6fe-dd5bbca86e4d"
+    ]
+  },
+  {
+    "latitude": "26.901336",
+    "longitude": "75.828819",
+    "store_ids": [
+      "b1f236d6-edfd-47eb-a6fe-dd5bbca86e4d"
+    ]
+  },
+  {
+    "latitude": "26.898474",
+    "longitude": "75.80085",
+    "store_ids": [
+      "aec2283f-be4f-4545-87b0-febac02c9fc1"
+    ]
+  },
+  {
+    "latitude": "26.909486",
+    "longitude": "75.781258",
+    "store_ids": [
+      "e4a1792d-8ffa-4015-a415-e91fe2f01493"
+    ]
+  },
+  {
+    "latitude": "26.955692",
+    "longitude": "75.68827",
+    "store_ids": [
+      "886e9e40-b38e-47ab-a15e-baa95f45f022"
+    ]
+  },
+  {
+    "latitude": "27.020064",
+    "longitude": "75.772033",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.87678",
+    "longitude": "75.798057",
+    "store_ids": [
+      "32989280-a610-4395-aca5-5ba4823af4bd",
+      "8ec659c9-2faa-4eba-ba2e-158ae485ebb4"
+    ]
+  },
+  {
+    "latitude": "26.934495",
+    "longitude": "75.79425",
+    "store_ids": [
+      "07b1b3f7-203d-4d37-9297-1ea22235fe2c"
+    ]
+  },
+  {
+    "latitude": "26.84376",
+    "longitude": "75.817539",
+    "store_ids": [
+      "4db672ad-efd4-44f3-bd91-300233162d1c",
+      "8b0413dd-9188-4002-951a-660ab5a35e7a"
+    ]
+  },
+  {
+    "latitude": "26.857341",
+    "longitude": "75.786565",
+    "store_ids": [
+      "4db672ad-efd4-44f3-bd91-300233162d1c",
+      "8ec659c9-2faa-4eba-ba2e-158ae485ebb4"
+    ]
+  },
+  {
+    "latitude": "26.888139",
+    "longitude": "75.761065",
+    "store_ids": [
+      "e4a1792d-8ffa-4015-a415-e91fe2f01493",
+      "8ec659c9-2faa-4eba-ba2e-158ae485ebb4"
+    ]
+  },
+  {
+    "latitude": "26.853952",
+    "longitude": "75.761257",
+    "store_ids": [
+      "f7caefb4-fd0c-43ee-bf5e-593a7bb33860",
+      "8ec659c9-2faa-4eba-ba2e-158ae485ebb4"
+    ]
+  },
+  {
+    "latitude": "26.905582",
+    "longitude": "75.742899",
+    "store_ids": [
+      "2036c1f6-0885-407c-a607-6a237897ae33"
+    ]
+  },
+  {
+    "latitude": "26.77995",
+    "longitude": "75.847585",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.86985",
+    "longitude": "75.655721",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.954804",
+    "longitude": "75.923098",
+    "store_ids": []
+  },
+  {
+    "latitude": "27.031941",
+    "longitude": "75.888251",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.807868",
+    "longitude": "75.725519",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.909788",
+    "longitude": "75.894715",
+    "store_ids": []
+  },
+  {
+    "latitude": "26.802068",
+    "longitude": "75.825812",
+    "store_ids": [
+      "455d4f27-20fa-488a-ab60-54cb113e4f26",
+      "8b0413dd-9188-4002-951a-660ab5a35e7a"
+    ]
+  },
+  {
+    "latitude": "26.911338",
+    "longitude": "75.718238",
+    "store_ids": [
+      "188961a6-213a-4ab6-9d5d-2aaa495042aa"
+    ]
+  },
+  {
+    "latitude": "26.959213",
+    "longitude": "75.771473",
+    "store_ids": [
+      "133688fc-cadd-4750-bb5f-f595c5eca821"
+    ]
+  },
+  {
+    "latitude": "29.410718",
+    "longitude": "77.07947",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.331973",
+    "longitude": "77.090981",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.379949",
+    "longitude": "76.883626",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.384533",
+    "longitude": "76.929735",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.29767",
+    "longitude": "76.745195",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.325193",
+    "longitude": "77.021902",
+    "store_ids": []
+  },
+  {
+    "latitude": "29.428878",
+    "longitude": "76.802893",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.325428",
+    "longitude": "83.00928",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.335684",
+    "longitude": "82.977037",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.364384",
+    "longitude": "82.96091",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.290577",
+    "longitude": "82.958221",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.271095",
+    "longitude": "82.982412",
+    "store_ids": [
+      "689c5ff8-e8ad-4289-a5a5-4b48c0e31114"
+    ]
+  },
+  {
+    "latitude": "25.4591",
+    "longitude": "82.847907",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.367452",
+    "longitude": "83.025396",
+    "store_ids": [
+      "3732acbe-d428-40f6-9d42-0a11976d0207"
+    ]
+  },
+  {
+    "latitude": "25.296715",
+    "longitude": "83.025396",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.275154",
+    "longitude": "83.068352",
+    "store_ids": []
+  },
+  {
+    "latitude": "25.303647",
+    "longitude": "82.985099",
+    "store_ids": []
+  },
+  {
+    "latitude": "18.938535",
+    "longitude": "72.836334",
+    "store_ids": [
+      "fac79573-63ae-4dd4-a7b5-bd8d8fa61ce2",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.948367",
+    "longitude": "72.825936",
+    "store_ids": [
+      "fac79573-63ae-4dd4-a7b5-bd8d8fa61ce2",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.953193",
+    "longitude": "72.835301",
+    "store_ids": [
+      "743eb98c-c506-4a2c-b9d4-ee218bb5b202",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.957988",
+    "longitude": "72.82144",
+    "store_ids": [
+      "3b579acc-ff7e-4e12-8b96-8e144cff0aa7",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.910369",
+    "longitude": "72.819758",
+    "store_ids": [
+      "98ee4a78-f196-4bd1-9f00-1c27b126d231",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.954086",
+    "longitude": "72.800448",
+    "store_ids": [
+      "81822dd8-20a3-4da0-b460-671c9d1f6d27",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.961841",
+    "longitude": "72.813383",
+    "store_ids": [
+      "81822dd8-20a3-4da0-b460-671c9d1f6d27",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.96714",
+    "longitude": "72.828657",
+    "store_ids": [
+      "743eb98c-c506-4a2c-b9d4-ee218bb5b202",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.958296",
+    "longitude": "72.838941",
+    "store_ids": [
+      "743eb98c-c506-4a2c-b9d4-ee218bb5b202",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.970188",
+    "longitude": "72.845962",
+    "store_ids": [
+      "743eb98c-c506-4a2c-b9d4-ee218bb5b202",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.981045",
+    "longitude": "72.826758",
+    "store_ids": [
+      "743eb98c-c506-4a2c-b9d4-ee218bb5b202",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.999541",
+    "longitude": "72.839709",
+    "store_ids": [
+      "c2279e92-0a29-4470-861e-28a8798e031f",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.998173",
+    "longitude": "72.827469",
+    "store_ids": [
+      "f48e88cb-0bbb-4ce1-9ce3-8005cc76c1e6",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "19.014796",
+    "longitude": "72.845453",
+    "store_ids": [
+      "71ca681c-6ee4-467d-9d0a-8d761ce8400f",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.996087",
+    "longitude": "72.852836",
+    "store_ids": [
+      "c2279e92-0a29-4470-861e-28a8798e031f",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "19.038946",
+    "longitude": "72.842055",
+    "store_ids": [
+      "973a6df0-7634-4291-be0d-cd48a816516b",
+      "8a278c72-1366-4926-b81e-ecc6e64df2a7"
+    ]
+  },
+  {
+    "latitude": "19.045592",
+    "longitude": "72.853706",
+    "store_ids": [
+      "973a6df0-7634-4291-be0d-cd48a816516b",
+      "8a278c72-1366-4926-b81e-ecc6e64df2a7"
+    ]
+  },
+  {
+    "latitude": "18.998514",
+    "longitude": "72.817354",
+    "store_ids": [
+      "f48e88cb-0bbb-4ce1-9ce3-8005cc76c1e6",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "19.026901",
+    "longitude": "72.855377",
+    "store_ids": [
+      "71ca681c-6ee4-467d-9d0a-8d761ce8400f",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.935118",
+    "longitude": "72.826438",
+    "store_ids": [
+      "fac79573-63ae-4dd4-a7b5-bd8d8fa61ce2",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.925573",
+    "longitude": "72.824222",
+    "store_ids": [
+      "98ee4a78-f196-4bd1-9f00-1c27b126d231",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "19.04256",
+    "longitude": "72.863809",
+    "store_ids": [
+      "960c0c9b-3602-42c5-bea7-b9f8a737e68f",
+      "eb92685d-4aad-4424-b38f-f876e41640a8"
+    ]
+  },
+  {
+    "latitude": "19.061092",
+    "longitude": "72.87916",
+    "store_ids": [
+      "684a75ae-c944-480c-a64f-76a1a9cfa393",
+      "eb92685d-4aad-4424-b38f-f876e41640a8"
+    ]
+  },
+  {
+    "latitude": "19.015831",
+    "longitude": "72.829392",
+    "store_ids": [
+      "e62b31c3-5bd4-49df-84cd-127ec549c830",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.970642",
+    "longitude": "72.809483",
+    "store_ids": [
+      "81822dd8-20a3-4da0-b460-671c9d1f6d27",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.979327",
+    "longitude": "72.838255",
+    "store_ids": [
+      "c2279e92-0a29-4470-861e-28a8798e031f",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "19.021722",
+    "longitude": "72.837479",
+    "store_ids": [
+      "fab4fc54-b957-4a4b-9e1b-eb5642c9e224",
+      "8a278c72-1366-4926-b81e-ecc6e64df2a7"
+    ]
+  },
+  {
+    "latitude": "19.07967",
+    "longitude": "72.867897",
+    "store_ids": [
+      "48328608-7aaf-4857-b869-dae167d5f320",
+      "e278914b-34ce-4bd8-a961-1a4456c620cc"
+    ]
+  },
+  {
+    "latitude": "19.01217",
+    "longitude": "72.821863",
+    "store_ids": [
+      "e62b31c3-5bd4-49df-84cd-127ec549c830",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "19.013289",
+    "longitude": "72.854898",
+    "store_ids": [
+      "71ca681c-6ee4-467d-9d0a-8d761ce8400f",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.929005",
+    "longitude": "72.830131",
+    "store_ids": [
+      "fac79573-63ae-4dd4-a7b5-bd8d8fa61ce2",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.985633",
+    "longitude": "72.844163",
+    "store_ids": [
+      "c2279e92-0a29-4470-861e-28a8798e031f",
+      "dd0aebf0-fb91-4644-bf64-5ac156a4b57f"
+    ]
+  },
+  {
+    "latitude": "18.972416",
+    "longitude": "72.814818",
+    "store_ids": [
+      "a2af220f-8ad2-4869-abc7-62dc2476af8c",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "18.941689",
+    "longitude": "72.793569",
+    "store_ids": [
+      "81822dd8-20a3-4da0-b460-671c9d1f6d27",
+      "2175898f-b70e-46d9-8def-aba7f0745662"
+    ]
+  },
+  {
+    "latitude": "19.025748",
+    "longitude": "72.869694",
+    "store_ids": [
+      "960c0c9b-3602-42c5-bea7-b9f8a737e68f",
+      "eb92685d-4aad-4424-b38f-f876e41640a8"
+    ]
+  },
+  {
+    "latitude": "19.133817",
+    "longitude": "72.938396",
+    "store_ids": [
+      "8988d40f-12d3-42d5-9a8e-243712f8e37f"
+    ]
+  },
+  {
+    "latitude": "19.063262",
+    "longitude": "72.925839",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.104715",
+    "longitude": "72.826827",
+    "store_ids": [
+      "769200e9-30cc-47a2-81d4-58904ed953cc",
+      "0e8c4509-c9cd-4235-9da5-18fbede8ce72"
+    ]
+  },
+  {
+    "latitude": "19.05517",
+    "longitude": "72.829952",
+    "store_ids": [
+      "0d591e22-ea1d-467e-8600-ede8e8b4937a",
+      "8a278c72-1366-4926-b81e-ecc6e64df2a7"
+    ]
+  },
+  {
+    "latitude": "19.05961",
+    "longitude": "72.855298",
+    "store_ids": [
+      "74aa405e-238e-4103-abb3-096bd7e6f553",
+      "e278914b-34ce-4bd8-a961-1a4456c620cc"
+    ]
+  },
+  {
+    "latitude": "19.071708",
+    "longitude": "72.834104",
+    "store_ids": [
+      "cbf9f315-5b12-45f1-af0e-9d374c17d261",
+      "8a278c72-1366-4926-b81e-ecc6e64df2a7"
+    ]
+  },
+  {
+    "latitude": "19.112105",
+    "longitude": "72.861073",
+    "store_ids": [
+      "87980e31-e60f-409d-bc05-e5a0e2bc90d5",
+      "0e8c4509-c9cd-4235-9da5-18fbede8ce72"
+    ]
+  },
+  {
+    "latitude": "19.082012",
+    "longitude": "72.834469",
+    "store_ids": [
+      "cc72f206-e146-43c5-a01b-56ddc8d11464",
+      "8a278c72-1366-4926-b81e-ecc6e64df2a7"
+    ]
+  },
+  {
+    "latitude": "19.080389",
+    "longitude": "72.846857",
+    "store_ids": [
+      "74aa405e-238e-4103-abb3-096bd7e6f553",
+      "e278914b-34ce-4bd8-a961-1a4456c620cc"
+    ]
+  },
+  {
+    "latitude": "19.104497",
+    "longitude": "72.839501",
+    "store_ids": [
+      "769200e9-30cc-47a2-81d4-58904ed953cc",
+      "0e8c4509-c9cd-4235-9da5-18fbede8ce72"
+    ]
+  },
+  {
+    "latitude": "19.100738",
+    "longitude": "72.848495",
+    "store_ids": [
+      "f9e3aef6-a8b9-4bb4-9177-a7ca316dfd71",
+      "0e8c4509-c9cd-4235-9da5-18fbede8ce72"
+    ]
+  },
+  {
+    "latitude": "19.122735",
+    "longitude": "72.830201",
+    "store_ids": [
+      "64f822f2-6e64-484c-9e7c-e1b9319a2e71",
+      "0e8c4509-c9cd-4235-9da5-18fbede8ce72"
+    ]
+  },
+  {
+    "latitude": "19.111864",
+    "longitude": "72.879028",
+    "store_ids": [
+      "50be453c-91e9-4a62-913c-3d6add84eb57",
+      "1cf40b2e-95cd-4581-9ab9-bca81d4932ab"
+    ]
+  },
+  {
+    "latitude": "19.136793",
+    "longitude": "72.85791",
+    "store_ids": [
+      "ab94c840-ae17-491f-95b5-b32bf84ca808",
+      "0e8c4509-c9cd-4235-9da5-18fbede8ce72"
+    ]
+  },
+  {
+    "latitude": "19.142656",
+    "longitude": "72.805344",
+    "store_ids": [
+      "84745439-e529-4287-ae44-7b4a516da253",
+      "803931bb-511e-48bc-8611-4b9910682bb4"
+    ]
+  },
+  {
+    "latitude": "19.164811",
+    "longitude": "72.853272",
+    "store_ids": [
+      "a5d48a70-31d9-4c5f-b61f-daae4ab4e3b3",
+      "803931bb-511e-48bc-8611-4b9910682bb4"
+    ]
+  },
+  {
+    "latitude": "19.187229",
+    "longitude": "72.840747",
+    "store_ids": [
+      "d390ee2b-1c8f-4236-9c8b-b60173fd330a",
+      "21db1e24-d6a7-484a-b5aa-b43e1aafb8fc"
+    ]
+  },
+  {
+    "latitude": "19.155576",
+    "longitude": "72.884959",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.231345",
+    "longitude": "72.86353",
+    "store_ids": [
+      "2050a7de-e13c-4947-bac7-7995d8c6e72d",
+      "b26ca2be-f12b-4645-a83a-adf09ecfd28b"
+    ]
+  },
+  {
+    "latitude": "19.207237",
+    "longitude": "72.834822",
+    "store_ids": [
+      "d50a3a1a-4ab0-4a0e-b87d-e032776daff9",
+      "21db1e24-d6a7-484a-b5aa-b43e1aafb8fc"
+    ]
+  },
+  {
+    "latitude": "19.259095",
+    "longitude": "72.833823",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.117753",
+    "longitude": "72.873702",
+    "store_ids": [
+      "c6df9a09-1e44-4dae-ac93-4f9aab709a3a",
+      "0e8c4509-c9cd-4235-9da5-18fbede8ce72"
+    ]
+  },
+  {
+    "latitude": "19.074106",
+    "longitude": "72.880418",
+    "store_ids": [
+      "4a54d5f5-0bd9-4b8f-b08a-120d8e7926d7",
+      "e278914b-34ce-4bd8-a961-1a4456c620cc"
+    ]
+  },
+  {
+    "latitude": "19.052112",
+    "longitude": "72.900668",
+    "store_ids": [
+      "56290154-dc98-4aed-bc38-d4dc13f4bda3",
+      "eb92685d-4aad-4424-b38f-f876e41640a8"
+    ]
+  },
+  {
+    "latitude": "19.101803",
+    "longitude": "72.890353",
+    "store_ids": [
+      "13d9641e-8c4f-4bca-b2e9-a1f6ceaa55dd",
+      "1cf40b2e-95cd-4581-9ab9-bca81d4932ab"
+    ]
+  },
+  {
+    "latitude": "19.028995",
+    "longitude": "72.888146",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.079916",
+    "longitude": "72.917436",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.123929",
+    "longitude": "72.909441",
+    "store_ids": [
+      "751c003c-bbe4-453d-ae3d-404380528149",
+      "1cf40b2e-95cd-4581-9ab9-bca81d4932ab"
+    ]
+  },
+  {
+    "latitude": "19.077874",
+    "longitude": "72.905563",
+    "store_ids": [
+      "48018697-39cd-458a-a2dc-b6ac22e6b5c0",
+      "eb92685d-4aad-4424-b38f-f876e41640a8"
+    ]
+  },
+  {
+    "latitude": "19.157034",
+    "longitude": "72.932744",
+    "store_ids": [
+      "5f5e8200-1796-4df9-9da6-3c80b0e3c6ce",
+      "b7e326da-7679-428a-82b4-6cc1d91518ac"
+    ]
+  },
+  {
+    "latitude": "19.102543",
+    "longitude": "72.925431",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.17208",
+    "longitude": "72.948255",
+    "store_ids": [
+      "2e7ec440-fd1b-441e-90ee-9c8611648bb6",
+      "b7e326da-7679-428a-82b4-6cc1d91518ac"
+    ]
+  },
+  {
+    "latitude": "19.16607",
+    "longitude": "72.964563",
+    "store_ids": [
+      "50cf7835-361c-4c3f-822a-9fc9be0d2d33",
+      "b7e326da-7679-428a-82b4-6cc1d91518ac"
+    ]
+  },
+  {
+    "latitude": "19.174112",
+    "longitude": "72.937198",
+    "store_ids": [
+      "2e7ec440-fd1b-441e-90ee-9c8611648bb6",
+      "b7e326da-7679-428a-82b4-6cc1d91518ac"
+    ]
+  },
+  {
+    "latitude": "19.116619",
+    "longitude": "72.937423",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.097571",
+    "longitude": "72.903237",
+    "store_ids": [
+      "460836cf-9dbb-49e3-b460-ef7fecdb7b13",
+      "1cf40b2e-95cd-4581-9ab9-bca81d4932ab"
+    ]
+  },
+  {
+    "latitude": "19.043802",
+    "longitude": "72.912097",
+    "store_ids": [
+      "9ab4aaf2-f0b5-477c-b633-b3a555b0db42",
+      "eb92685d-4aad-4424-b38f-f876e41640a8"
+    ]
+  },
+  {
+    "latitude": "19.089315",
+    "longitude": "72.907806",
+    "store_ids": [
+      "a0cf8634-2b62-4ead-8cd7-5ee6c5d11192",
+      "1cf40b2e-95cd-4581-9ab9-bca81d4932ab"
+    ]
+  },
+  {
+    "latitude": "19.139093",
+    "longitude": "72.895596",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.048262",
+    "longitude": "72.928843",
+    "store_ids": [
+      "9ab4aaf2-f0b5-477c-b633-b3a555b0db42"
+    ]
+  },
+  {
+    "latitude": "19.068535",
+    "longitude": "72.900321",
+    "store_ids": [
+      "48018697-39cd-458a-a2dc-b6ac22e6b5c0",
+      "eb92685d-4aad-4424-b38f-f876e41640a8"
+    ]
+  },
+  {
+    "latitude": "19.234037",
+    "longitude": "72.839949",
+    "store_ids": [
+      "b8f93707-6d8d-4c31-8b58-627f09ba83cf",
+      "b26ca2be-f12b-4645-a83a-adf09ecfd28b"
+    ]
+  },
+  {
+    "latitude": "19.232688",
+    "longitude": "72.798371",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.128274",
+    "longitude": "72.867709",
+    "store_ids": [
+      "c6df9a09-1e44-4dae-ac93-4f9aab709a3a",
+      "0e8c4509-c9cd-4235-9da5-18fbede8ce72"
+    ]
+  },
+  {
+    "latitude": "19.035882",
+    "longitude": "72.924652",
+    "store_ids": [
+      "9ab4aaf2-f0b5-477c-b633-b3a555b0db42",
+      "eb92685d-4aad-4424-b38f-f876e41640a8"
+    ]
+  },
+  {
+    "latitude": "19.188802",
+    "longitude": "72.819704",
+    "store_ids": [
+      "d50a3a1a-4ab0-4a0e-b87d-e032776daff9",
+      "21db1e24-d6a7-484a-b5aa-b43e1aafb8fc"
+    ]
+  },
+
+  {
+    "latitude": "19.126657",
+    "longitude": "72.876655",
+    "store_ids": [
+      "c6df9a09-1e44-4dae-ac93-4f9aab709a3a",
+      "0e8c4509-c9cd-4235-9da5-18fbede8ce72"
+    ]
+  },
+  {
+    "latitude": "19.183863",
+    "longitude": "72.858432",
+    "store_ids": [
+      "a5d48a70-31d9-4c5f-b61f-daae4ab4e3b3",
+      "3b18ee5e-9d22-44cd-acff-646042e546bf"
+    ]
+  },
+  {
+    "latitude": "19.071761",
+    "longitude": "72.861543",
+    "store_ids": [
+      "48328608-7aaf-4857-b869-dae167d5f320",
+      "e278914b-34ce-4bd8-a961-1a4456c620cc"
+    ]
+  },
+  {
+    "latitude": "19.092927",
+    "longitude": "72.865377",
+    "store_ids": []
+  },
+  {
+    "latitude": "19.205859",
+    "longitude": "72.86612",
+    "store_ids": [
+      "238a227d-697c-4fa9-a4f5-4fd064760098",
+      "3b18ee5e-9d22-44cd-acff-646042e546bf"
+    ]
+  },
+  {
+    "latitude": "19.141896",
+    "longitude": "72.834424",
+    "store_ids": [
+      "39b60f5b-f69b-4664-8c1b-31dbb40c63d8",
+      "803931bb-511e-48bc-8611-4b9910682bb4"
+    ]
+  },
+  {
+    "latitude": "19.245015",
+    "longitude": "72.845409",
+    "store_ids": [
+      "b8f93707-6d8d-4c31-8b58-627f09ba83cf",
+      "b26ca2be-f12b-4645-a83a-adf09ecfd28b"
+    ]
+  },
+  {
+    "latitude": "19.163045",
+    "longitude": "72.839299",
+    "store_ids": [
+      "a20f91f9-3e2c-48fd-a720-a6bf6685a6fe",
+      "803931bb-511e-48bc-8611-4b9910682bb4"
+    ]
+  }
+]
